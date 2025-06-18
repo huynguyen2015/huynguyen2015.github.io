@@ -7,7 +7,7 @@
                     "22586Q92Y4.kasha.io.lr-mobile-app.stag"
                 ],
                 "paths": [
-                    "/money/?*",
+                    "/money/*",
                     "/booking/*"
                 ]
             }
